@@ -1,0 +1,324 @@
+{
+  "business": {
+    "name": "Dallas Appliance Repair Experts",
+    "shortName": "Dallas Appliance Repair",
+    "tagline": "Reliable, Fast, and Expert Appliance Repair in Dallas, TX",
+    "niche": "Appliance Repair",
+    "phone": "(214) 310-0092",
+    "address": "155 Oak Lawn Ave, Dallas, TX 75207",
+    "city": "Dallas, TX",
+    "hours": "Mon-Sat 7am-9pm, Sun 9am-5pm",
+    "ctaLabel": "Schedule Service",
+    "headerCta": "Call Now"
+  },
+  "seo": {
+    "title": "Dallas Appliance Repair Experts | Same-Day Service (214) 310-0092",
+    "description": "Trusted appliance repair in Dallas, TX. Fix refrigerators, ovens, washers, dryers & more. Same-day service, licensed & insured. Call (214) 310-0092."
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Dallas Appliance Repair Experts",
+      "headline": "Expert Appliance Repair in Dallas – Same-Day Service",
+      "subheadline": "Professional, fast, and affordable repairs for your home appliances. We fix refrigerators, ovens, washers, dryers, and more.",
+      "primaryCta": "Schedule Service",
+      "secondaryCta": "Call (214) 310-0092"
+    },
+    "stats": [
+      {
+        "value": "12+",
+        "label": "Years Experience"
+      },
+      {
+        "value": "1,500+",
+        "label": "Appliances Repaired"
+      },
+      {
+        "value": "4.9",
+        "label": "Average Rating"
+      },
+      {
+        "value": "2 hr",
+        "label": "Average Response Time"
+      }
+    ],
+    "featureSections": [
+      {
+        "eyebrow": "Same-Day Service",
+        "title": "Fast, Reliable Repairs When You Need Them",
+        "body": "We know a broken appliance disrupts your day. That's why we offer same-day service in Dallas. Our technicians arrive on time, diagnose the issue quickly, and get your appliance running smoothly.",
+        "bullets": [
+          "Same-day service available",
+          "Licensed and insured technicians",
+          "Transparent pricing with no hidden fees"
+        ],
+        "reverse": false,
+        "cardLabel": "Warranty",
+        "cardTitle": "100% Satisfaction Guarantee",
+        "cardBody": "All repairs come with a warranty on parts and labor. If something isn't right, we'll make it right."
+      },
+      {
+        "eyebrow": "All Major Brands",
+        "title": "We Repair All Makes and Models",
+        "body": "From Samsung to Whirlpool, GE to LG, our technicians have the expertise to fix any brand. We stock common parts in our vans to reduce wait times.",
+        "bullets": [
+          "Refrigerators, ovens, dishwashers, washers, dryers",
+          "Expertise in both standard and smart appliances",
+          "Genuine OEM parts for lasting repairs"
+        ],
+        "reverse": true,
+        "cardLabel": "Brands",
+        "cardTitle": "All Major Brands",
+        "cardBody": "Samsung, LG, Whirlpool, GE, Maytag, KitchenAid, and more."
+      }
+    ],
+    "whyTitle": "Why Choose Dallas Appliance Repair Experts",
+    "whyChooseUs": [
+      {
+        "title": "Licensed & Insured",
+        "description": "Our technicians are fully licensed and insured, giving you peace of mind with every repair."
+      },
+      {
+        "title": "Upfront Pricing",
+        "description": "We provide a clear estimate before any work begins. No surprises, no hidden fees."
+      },
+      {
+        "title": "Experienced Technicians",
+        "description": "With over 12 years of experience, our team has seen it all. We diagnose and repair efficiently."
+      },
+      {
+        "title": "Customer Satisfaction",
+        "description": "We stand by our work with a satisfaction guarantee. Your appliance will work like new."
+      }
+    ],
+    "testimonials": [
+      {
+        "quote": "They fixed my refrigerator within hours of my call. Professional and friendly service.",
+        "author": "Maria G.",
+        "role": "Oak Lawn Resident"
+      },
+      {
+        "quote": "My washer broke on a Friday night. They came Saturday morning and had it running perfectly.",
+        "author": "James T.",
+        "role": "Uptown Homeowner"
+      },
+      {
+        "quote": "Fair price, quick service, and the repair has held up great. Highly recommend.",
+        "author": "Linda P.",
+        "role": "Lakewood Resident"
+      }
+    ],
+    "cta": {
+      "headline": "Ready to Get Your Appliance Fixed?",
+      "subheadline": "Call us or schedule online for fast, reliable service in Dallas.",
+      "primaryCta": "Book Now",
+      "secondaryCta": "Call (214) 310-0092"
+    }
+  },
+  "servicesPage": {
+    "intro": "We offer comprehensive appliance repair services for homes in Dallas. Our technicians are trained to handle all major brands and models, ensuring your appliances are back in working order quickly."
+  },
+  "services": [
+    {
+      "icon": "01",
+      "title": "Refrigerator Repair",
+      "shortDescription": "Expert repair for all refrigerator brands, including ice makers and water dispensers.",
+      "longDescription": "Is your refrigerator not cooling? Ice maker acting up? Our technicians can diagnose and repair any issue, from compressor problems to thermostat failures. We use OEM parts for lasting results.",
+      "benefits": [
+        "Restore optimal cooling and food preservation",
+        "Fix noisy or leaking units",
+        "Repair ice makers and water dispensers"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We inspect your refrigerator to identify the root cause of the problem."
+        },
+        {
+          "title": "Repair",
+          "description": "Using quality parts, we perform the repair efficiently."
+        },
+        {
+          "title": "Testing",
+          "description": "We test the appliance to ensure it's running perfectly before leaving."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "How long does a refrigerator repair take?",
+          "answer": "Most repairs are completed within 1-2 hours, depending on the issue."
+        },
+        {
+          "question": "Do you repair ice makers?",
+          "answer": "Yes, we repair ice makers and water dispensers for all major brands."
+        }
+      ],
+      "slug": "refrigerator-repair"
+    },
+    {
+      "icon": "02",
+      "title": "Oven & Stove Repair",
+      "shortDescription": "Professional repair for gas and electric ovens, stoves, and ranges.",
+      "longDescription": "From faulty heating elements to gas ignition issues, we handle all oven and stove repairs. Our technicians are experienced with both conventional and smart ovens.",
+      "benefits": [
+        "Accurate temperature control restored",
+        "Gas or electric repair expertise",
+        "Quick turnaround to get cooking again"
+      ],
+      "process": [
+        {
+          "title": "Inspection",
+          "description": "We check all components including heating elements, thermostats, and gas valves."
+        },
+        {
+          "title": "Repair",
+          "description": "We replace or repair faulty parts with precision."
+        },
+        {
+          "title": "Calibration",
+          "description": "We calibrate the oven to ensure even cooking temperatures."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Can you repair a gas oven?",
+          "answer": "Yes, we are qualified to repair both gas and electric ovens and stoves."
+        },
+        {
+          "question": "How much does oven repair cost?",
+          "answer": "Cost varies based on the issue. We provide a free estimate before any work."
+        }
+      ],
+      "slug": "oven-stove-repair"
+    },
+    {
+      "icon": "03",
+      "title": "Washer & Dryer Repair",
+      "shortDescription": "Fast repair for washing machines and dryers, including stackable units.",
+      "longDescription": "Don't let a broken washer or dryer pile up your laundry. We fix all brands and models, from front-load to top-load, and can handle issues like drum problems, drainage, and heating.",
+      "benefits": [
+        "Restore washing and drying functionality",
+        "Fix leaks, loud noises, and spinning issues",
+        "Extend the life of your appliances"
+      ],
+      "process": [
+        {
+          "title": "Assessment",
+          "description": "We run a diagnostic to pinpoint the problem."
+        },
+        {
+          "title": "Repair",
+          "description": "We replace worn belts, pumps, motors, or heating elements as needed."
+        },
+        {
+          "title": "Test Cycle",
+          "description": "We run a cycle to ensure everything works correctly."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "Do you repair stackable washer/dryers?",
+          "answer": "Yes, we repair all types including stackable units."
+        },
+        {
+          "question": "How soon can you come?",
+          "answer": "We offer same-day service in most areas of Dallas."
+        }
+      ],
+      "slug": "washer-dryer-repair"
+    },
+    {
+      "icon": "04",
+      "title": "Dishwasher Repair",
+      "shortDescription": "Reliable dishwasher repair for all brands – get your dishes clean again.",
+      "longDescription": "A malfunctioning dishwasher can be a hassle. Our experts can fix leaks, drainage issues, poor cleaning, and broken controls. We work on built-in and portable dishwashers.",
+      "benefits": [
+        "Clean dishes every time",
+        "Fix leaks and water pooling",
+        "Repair control panels and cycles"
+      ],
+      "process": [
+        {
+          "title": "Diagnosis",
+          "description": "We check the water inlet, drain pump, spray arms, and electrical components."
+        },
+        {
+          "title": "Repair",
+          "description": "We replace faulty parts with OEM equivalents."
+        },
+        {
+          "title": "Performance Check",
+          "description": "We run a cycle to confirm proper operation."
+        }
+      ],
+      "faqs": [
+        {
+          "question": "My dishwasher is leaking. Can you fix it?",
+          "answer": "Yes, we can repair leaks caused by door seals, hoses, or pumps."
+        },
+        {
+          "question": "Do you repair portable dishwashers?",
+          "answer": "Yes, we repair both built-in and portable dishwashers."
+        }
+      ],
+      "slug": "dishwasher-repair"
+    }
+  ],
+  "about": {
+    "headline": "Dallas Appliance Repair Experts – Your Local Repair Specialists",
+    "mission": "To provide fast, reliable, and affordable appliance repair to every home in Dallas.",
+    "story": [
+      "Dallas Appliance Repair Experts was founded with a simple mission: bring professional, same-day appliance repair to our neighbors. With over 12 years of experience, our founder saw the need for a service that combines technical expertise with genuine customer care. We started small, but word of mouth quickly grew our business because we treat every home like our own.",
+      "Today, we serve the entire Dallas area with a team of certified technicians who share our commitment to quality. We invest in ongoing training and stock our vans with common parts so we can complete most repairs in a single visit. Every repair is backed by a satisfaction guarantee, because we believe in doing the job right the first time."
+    ],
+    "highlight": {
+      "stat": "1,500+",
+      "label": "Appliances Repaired"
+    },
+    "coreValues": [
+      {
+        "title": "Integrity",
+        "description": "We give honest advice and fair pricing, never recommending unnecessary repairs."
+      },
+      {
+        "title": "Excellence",
+        "description": "We strive for the highest quality in every repair, using OEM parts and proven techniques."
+      },
+      {
+        "title": "Reliability",
+        "description": "We show up on time and complete repairs efficiently, respecting your schedule."
+      },
+      {
+        "title": "Community",
+        "description": "We are proud to serve Dallas and treat our customers like neighbors."
+      }
+    ]
+  },
+  "contact": {
+    "headline": "Contact Us Today",
+    "subheadline": "Call or fill out the form to schedule your appliance repair. Same-day service available.",
+    "primaryCta": "Call (214) 310-0092",
+    "formCta": "Send Message",
+    "serviceAreas": [
+      "Dallas",
+      "Oak Lawn",
+      "Uptown",
+      "Lakewood",
+      "Highland Park",
+      "University Park",
+      "Preston Hollow",
+      "Park Cities"
+    ]
+  },
+  "social_proof": {
+    "rating": null,
+    "reviews": null
+  },
+  "meta": {
+    "niche": "Appliance Repair",
+    "generated_by": "deepseek",
+    "review_snippets_used": 0
+  },
+  "phone_href": "tel:2143100092",
+  "current_year": 2026,
+  "header_cta": "Call Now"
+}
